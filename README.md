@@ -15,3 +15,10 @@ git commit -m "Initial commit" \\\\\\\\\\\\\
 git branch -M main\\\\\\\\\
 git remote add origin https://github.com/YashodaraSewmini/EXAMPLE.git\\\\\\\\\\
 git push -u origin main\\\\\\\\\
+
+deploy:
+backend \\\ uri ekai value ekai- mongodb link ek
+\\\\\\\\\\\\
+frontend\
+Build command: npm run build\\\\\\\
+Publish directory: build\\\\\\\\\
